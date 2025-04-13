@@ -1,2 +1,2 @@
 var text = 'hello bangladesh'
-console.log(text.charCodeAt(6))
+console.log(text.charCodeAt(2))
