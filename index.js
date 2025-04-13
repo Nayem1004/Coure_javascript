@@ -1,2 +1,3 @@
-var arr = [1,2,3,4,5,6,7]
-console.log(arr)
+var name = 'procoder'
+var letter = name.at(1)
+console.log(letter)
